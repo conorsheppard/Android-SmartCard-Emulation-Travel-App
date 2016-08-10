@@ -1,0 +1,23 @@
+<resources>
+    <string name="service_name">SmartTravelCardEmulator</string>
+    <string name="app_name">SmartTravel</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Top Up</string>
+    <string name="title_section3">My Account</string>
+    <string name="title_section4">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_activate_account">Activate Account</string>
+    <string name="about_fragment">This is an application made to demonstrate the NFC and HCE
+        capabilities of the Android platform, and show how it could potentially be used for a public
+        transportation app</string>
+    <string-array name="top_up_array">
+        <item>€5</item>
+        <item>€10</item>
+        <item>€20</item>
+        <item>€50</item>
+    </string-array>
+</resources>

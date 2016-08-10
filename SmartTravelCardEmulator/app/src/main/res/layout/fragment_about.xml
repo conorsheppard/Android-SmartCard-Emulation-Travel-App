@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.conorsheppard.SmartTravelCardEmulator.AboutFragment">
+
+    <TextView android:layout_width="300dp" android:layout_height="wrap_content"
+        android:text="@string/about_fragment"
+        android:layout_gravity="center"
+        android:paddingBottom="50dp"
+        android:textSize="15dp" />
+
+</FrameLayout>
