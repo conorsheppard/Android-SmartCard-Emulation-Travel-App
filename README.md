@@ -5,4 +5,4 @@ Public transport app for Android. Uses HCE for communication between two mobile 
 
 **SmartTravelCardEmulator/app/src**	- This directory contains the client application to run on an NFC-enabled Android device.
 
-**SmartTravel_BusTerminal** - This dirctory contains the bus terminal emulator application.
+**SmartTravel_BusTerminal** - This directory contains the bus terminal emulator application.
